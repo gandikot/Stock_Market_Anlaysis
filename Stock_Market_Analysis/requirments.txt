@@ -1,0 +1,29 @@
+Required Libraries:
+1.Core Libraries:
+
+numpy
+pandas
+warnings
+
+2.Visualization Libraries:
+
+matplotlib
+seaborn
+plotly
+
+3.Machine Learning Libraries:
+
+sklearn (submodules: ensemble, linear_model, metrics, model_selection, preprocessing, svm)
+
+4.Time Series Analysis:
+
+statsmodels (submodules: api, graphics.tsaplots, tsa.arima.model, tsa.forecasting.theta, tsa.holtwinters, tsa.seasonal, tsa.statespace.sarimax, tsa.stattools)
+pmdarima
+
+5.Forecasting:
+
+prophet (Prophet for time series forecasting)
+
+6.Others:
+
+joblib
